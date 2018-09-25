@@ -1,0 +1,6 @@
+[submodule "theme/hugo-stellar-theme"]
+	path = theme/hugo-stellar-theme
+	url = https://github.com/antonpolishko/hugo-stellar-theme.git
+[submodule "themes/hug-stellar-theme"]
+	path = themes/hug-stellar-theme
+	url = https://github.com/antonpolishko/hugo-stellar-theme.git
